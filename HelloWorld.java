@@ -4,5 +4,6 @@ public class HelloWorld{
 		// TODO Auto-generated method stub
 		System.out.println("Hello World 2");
 		System.out.println("Hello World 3");
+		driver.close();
 		 }
 }
